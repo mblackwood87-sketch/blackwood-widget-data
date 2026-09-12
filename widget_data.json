@@ -1,25 +1,16 @@
 {
-  "updated": "2026-09-11 11:39 PM",
+  "updated": "2026-09-12 12:39 AM",
   "trend_weight": 170.5,
   "weekly_miles": 24.7,
-  "readiness": 43,
-  "readiness_level": "LOW",
-  "body_battery": 5,
-  "sleep_score": 60,
-  "sleep_hours": 4.6,
-  "hrv": 55,
-  "hrv_status": "BALANCED",
-  "resting_hr": 51,
-  "vo2_max": 55.2,
-  "today_run": {
-    "name": "Morning Run",
-    "miles": 6.22,
-    "pace": "8:04"
-  },
-  "today_strength": {
-    "name": "Strength",
-    "sets": 20,
-    "reps": 314,
-    "volume_lbs": 28309
-  }
+  "readiness": 50,
+  "readiness_level": "MODERATE",
+  "body_battery": null,
+  "sleep_score": null,
+  "sleep_hours": 0.0,
+  "hrv": null,
+  "hrv_status": null,
+  "resting_hr": null,
+  "vo2_max": null,
+  "today_run": null,
+  "today_strength": null
 }
