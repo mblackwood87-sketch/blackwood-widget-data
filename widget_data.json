@@ -1,25 +1,16 @@
 {
-  "updated": "2026-09-20 11:39 PM",
+  "updated": "2026-09-21 05:09 AM",
   "trend_weight": 168.3,
   "weekly_miles": 43.7,
   "readiness": 1,
   "readiness_level": "POOR",
-  "body_battery": 5,
-  "sleep_score": 53,
-  "sleep_hours": 4.0,
-  "hrv": 54,
+  "body_battery": 69,
+  "sleep_score": 78,
+  "sleep_hours": 6.3,
+  "hrv": 52,
   "hrv_status": "LOW",
   "resting_hr": 52,
   "vo2_max": 55.6,
-  "today_run": {
-    "name": "Evening Run",
-    "miles": 6.22,
-    "pace": "9:22"
-  },
-  "today_strength": {
-    "name": "Strength",
-    "sets": 27,
-    "reps": 455,
-    "volume_lbs": 22290
-  }
+  "today_run": null,
+  "today_strength": null
 }
