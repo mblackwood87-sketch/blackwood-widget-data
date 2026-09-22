@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-22 06:39 AM",
+  "updated": "2026-09-22 07:09 AM",
   "trend_weight": 168.3,
   "weekly_miles": 11.2,
   "readiness": 2,
   "readiness_level": "POOR",
-  "body_battery": 67,
+  "body_battery": 33,
   "sleep_score": 52,
   "sleep_hours": 3.9,
   "hrv": 46,
