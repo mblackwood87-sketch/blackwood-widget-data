@@ -1,16 +1,20 @@
 {
-  "updated": "2026-09-24 05:39 AM",
+  "updated": "2026-09-24 06:09 AM",
   "trend_weight": 167.8,
-  "weekly_miles": 15.2,
+  "weekly_miles": 20.2,
   "readiness": 1,
   "readiness_level": "POOR",
-  "body_battery": 50,
+  "body_battery": 37,
   "sleep_score": 52,
   "sleep_hours": 4.0,
   "hrv": 47,
   "hrv_status": "LOW",
   "resting_hr": 54,
   "vo2_max": 55.6,
-  "today_run": null,
+  "today_run": {
+    "name": "Morning Run",
+    "miles": 5.01,
+    "pace": "9:00"
+  },
   "today_strength": null
 }
