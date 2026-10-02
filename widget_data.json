@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-02 09:39 AM",
+  "updated": "2026-10-02 10:09 AM",
   "trend_weight": 167.4,
   "weekly_miles": 14.3,
   "readiness": 43,
   "readiness_level": "LOW",
-  "body_battery": 60,
+  "body_battery": 54,
   "sleep_score": 64,
   "sleep_hours": 4.8,
   "hrv": 54,
@@ -16,5 +16,10 @@
     "miles": 1.01,
     "pace": "8:05"
   },
-  "today_strength": null
+  "today_strength": {
+    "name": "Strength",
+    "sets": 23,
+    "reps": 326,
+    "volume_lbs": 26109
+  }
 }
