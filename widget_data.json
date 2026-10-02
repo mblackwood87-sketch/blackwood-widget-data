@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-02 02:39 AM",
+  "updated": "2026-10-02 03:09 AM",
   "trend_weight": 167.4,
   "weekly_miles": 13.2,
   "readiness": 55,
   "readiness_level": "MODERATE",
-  "body_battery": null,
+  "body_battery": 72,
   "sleep_score": null,
   "sleep_hours": 0.0,
   "hrv": null,
   "hrv_status": null,
-  "resting_hr": null,
+  "resting_hr": 51,
   "vo2_max": null,
   "today_run": null,
   "today_strength": null
