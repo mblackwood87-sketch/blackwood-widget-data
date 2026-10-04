@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-03 05:09 PM",
+  "updated": "2026-10-03 06:09 PM",
   "trend_weight": 167.4,
-  "weekly_miles": 25.3,
+  "weekly_miles": 28.4,
   "readiness": 45,
   "readiness_level": "LOW",
-  "body_battery": 16,
+  "body_battery": 9,
   "sleep_score": 59,
   "sleep_hours": 4.5,
   "hrv": 51,
   "hrv_status": "LOW",
   "resting_hr": 53,
-  "vo2_max": 54.9,
+  "vo2_max": 55.0,
   "today_run": {
-    "name": "Morning Run",
-    "miles": 11.02,
-    "pace": "7:13"
+    "name": "Afternoon Run",
+    "miles": 3.15,
+    "pace": "6:19"
   },
   "today_strength": null
 }
