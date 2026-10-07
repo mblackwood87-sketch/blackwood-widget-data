@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-07 11:39 AM",
+  "updated": "2026-10-07 12:09 PM",
   "trend_weight": 167.4,
-  "weekly_miles": 4.1,
+  "weekly_miles": 7.2,
   "readiness": 1,
   "readiness_level": "POOR",
   "body_battery": 22,
@@ -11,6 +11,10 @@
   "hrv_status": "LOW",
   "resting_hr": 52,
   "vo2_max": 55.1,
-  "today_run": null,
+  "today_run": {
+    "name": "Lunch Run",
+    "miles": 3.11,
+    "pace": "8:03"
+  },
   "today_strength": null
 }
