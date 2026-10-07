@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07 12:39 PM",
+  "updated": "2026-10-07 01:09 PM",
   "trend_weight": 167.4,
   "weekly_miles": 7.2,
   "readiness": 1,
@@ -16,5 +16,10 @@
     "miles": 3.11,
     "pace": "8:03"
   },
-  "today_strength": null
+  "today_strength": {
+    "name": "Strength",
+    "sets": 28,
+    "reps": 413,
+    "volume_lbs": 24511
+  }
 }
