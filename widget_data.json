@@ -1,25 +1,16 @@
 {
-  "updated": "2026-10-08 11:39 PM",
+  "updated": "2026-10-09 01:39 AM",
   "trend_weight": 167.4,
   "weekly_miles": 8.7,
-  "readiness": 20,
-  "readiness_level": "POOR",
-  "body_battery": 21,
-  "sleep_score": 76,
-  "sleep_hours": 6.0,
-  "hrv": 53,
-  "hrv_status": "LOW",
-  "resting_hr": 51,
-  "vo2_max": 55.1,
-  "today_run": {
-    "name": "Lunch Run",
-    "miles": 1.5,
-    "pace": "8:53"
-  },
-  "today_strength": {
-    "name": "Strength",
-    "sets": 33,
-    "reps": 530,
-    "volume_lbs": 35770
-  }
+  "readiness": 60,
+  "readiness_level": "MODERATE",
+  "body_battery": 52,
+  "sleep_score": null,
+  "sleep_hours": 0.0,
+  "hrv": null,
+  "hrv_status": null,
+  "resting_hr": 52,
+  "vo2_max": null,
+  "today_run": null,
+  "today_strength": null
 }
